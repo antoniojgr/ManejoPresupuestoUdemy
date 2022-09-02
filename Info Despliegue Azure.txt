@@ -1,5 +1,0 @@
-Base de Datos:
-
-- Nombre del servidor de base de datos: manejopresupuestodbserverdb
-- Usuario administrador: ajgr
-- Contraseña: passazure00!!
