@@ -1,0 +1,3 @@
+Usuario creado en la BD para el despliegue:
+ - Login name: ManejoPresupuestoApp
+ - Password: 123456
